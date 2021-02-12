@@ -1,0 +1,9 @@
+public class MyClass
+{
+	public static void Main()
+	{
+		var username = "Вася";
+		
+		Console.WriteLine("Hello, " + username);
+	}
+}
